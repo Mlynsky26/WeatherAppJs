@@ -1,3 +1,4 @@
+// Projekt wykonany przez: Mateusz Moniowski i Hubert Tomczyk
 const input = document.querySelector('input')
 const button = document.querySelector('button')
 const cityName = document.querySelector('.city-name')
